@@ -7,4 +7,4 @@
 
 paramiko (Crear instancia SSH): pip install paramiko
 pyautogui (Capturar sreenshots): pip install pyautogui
-apsheduler (Crear instancia cronJob): pip install apscheduler
+apsheduler (Crear instancia cronJob): pip install apscheduler / flask_apscheduler
